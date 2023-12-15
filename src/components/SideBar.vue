@@ -9,7 +9,12 @@
     </VList>
     <VDivider />
     <VList density="compact" nav>
-      <VListItem prepend-icon="mdi-image" title="Color Gallery" />
+      <VListItem
+        prepend-icon="mdi-image"
+        title="Color Gallery"
+        value="Color Gallery"
+      />
+      <VListItem prepend-icon="mdi-dialpad" title="More" value="More" />
     </VList>
   </VNavigationDrawer>
 </template>
