@@ -2,9 +2,9 @@
   <VNavigationDrawer expand-on-hover rail>
     <VList>
       <VListItem
-        prepend-avatar="https://randomuser.me/api/portraits/men/72.jpg"
-        title="Oscar Elliot"
-        subtitle="Oscar.Elliot@gmailcom"
+        prepend-avatar="https://freepngimg.com/thumb/brad_pitt/147376-hairstyle-pitt-brad-png-file-hd.png"
+        title="Brad Pitt"
+        subtitle="Brad_Pitt@gmailcom"
       ></VListItem>
     </VList>
     <VDivider />

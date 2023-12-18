@@ -1,5 +1,5 @@
 <template>
-  <VCard class="mx-5">
+  <VCard class="mx-5 my-3 pa-3">
     <VRow>
       <VCol v-for="n in 205" :key="n" cols="2">
         <VCard>
