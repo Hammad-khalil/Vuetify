@@ -4,7 +4,7 @@
       <VCol v-for="n in 205" :key="n" cols="2">
         <VCard>
           <VImg
-            :src="`https://picsum.photos/500/300?image=${n * 5 + 10}`"
+            :src="`https://picsum.photos/500/300?image=${n * 5 + 10}&random`"
             aspect-ratio="1"
             cover
           >

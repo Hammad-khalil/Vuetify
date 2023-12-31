@@ -14,7 +14,11 @@
         title="Color Gallery"
         value="Color Gallery"
       />
-      <VListItem prepend-icon="mdi-dialpad" title="More" value="More" />
+      <VListItem
+        prepend-icon="mdi-dialpad"
+        title="See In Grayscale"
+        value="See In Grayscale"
+      />
     </VList>
   </VNavigationDrawer>
 </template>
